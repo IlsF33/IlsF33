@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning about Data Science and its wonderous intricaies!
+I'm currently learning about Data Science and its wonderous intricacies!
 
 <!--
 
